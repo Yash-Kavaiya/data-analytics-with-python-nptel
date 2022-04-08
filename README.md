@@ -1,1 +1,1 @@
-# data-analytics-with-python-npltel
+# data-analytics-with-python-nptel
