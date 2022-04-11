@@ -1,16 +1,19 @@
 # Data-analytics-with-python-nptel
+         |   |                                                         
+---------|---|---------------------------------------------------------
+ Week 1  | : | Introduction To Data Analytics And Python Fundamentals  
+ Week 2  | : | Introduction To Probability                             
+ Week 3  | : | Sampling And Sampling Distributions                     
+ Week 4  | : | Hypothesis Testing                                      
+ Week 5  | : | Two Sample Testing And Introduction To ANOVA            
+ Week 6  | : | Two Way ANOVA And Linear Regression                     
+ Week 7  | : | Linear Regression And Multiple Regression               
+ Week 8  | : | Concepts Of MLE And Logistic Regression                 
+ Week 9  | : | ROC And Regression Analysis Model Building              
+ Week 10 | : | C2 Test And Introduction To Cluster Analysis            
 
- Week 1  | : | Introduction to data analytics and Python fundamentals  |   |   |   |   |   |   |   
----------|---|---------------------------------------------------------|---|---|---|---|---|---|---
- Week 2  | : | Introduction to probability                             |   |   |   |   |   |   |   
- Week 3  | : | Sampling and sampling distributions                     |   |   |   |   |   |   |   
- Week 4  | : | Hypothesis testing                                      |   |   |   |   |   |   |   
- Week 5  | : | Two sample testing and introduction to ANOVA            |   |   |   |   |   |   |   
- Week 6  | : | Two way ANOVA and linear regression                     |   |   |   |   |   |   |   
- Week 7  | : | Linear regression and multiple regression               |   |   |   |   |   |   |   
- Week 8  | : | Concepts of MLE and Logistic regression                 |   |   |   |   |   |   |   
- Week 9  | : | ROC and Regression Analysis Model Building              |   |   |   |   |   |   |   
- Week 10 | : | c2 Test and introduction to cluster analysis            |   |   |   |   |   |   |   
+       
+
 
 
 
