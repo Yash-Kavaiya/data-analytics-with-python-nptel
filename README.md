@@ -29,6 +29,6 @@
 |    Week 7 assigment solution                       |          https://youtu.be/8RhI9Yjbp9c     |
 |    Week 8 assigment solution                       |        Coming soon !       |
 |    Week 9 assigment solution                      |           Coming soon !    |
-|    Week 10 assigment solution                       |          Coming soon !     |
+|    Week 10 assigment solution                       |     https://youtu.be/3sSgR04FFfM     |
 |    Week 11 assigment solution                       |          Coming soon !     |
 |    Week 12 assigment solution                       |          Coming soon !     |
