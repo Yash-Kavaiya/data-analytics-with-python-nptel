@@ -34,9 +34,9 @@
 |    Week 12 assigment solution                       |          Coming soon !     |
 
 
-# Useful links
-## Z-table 
+## Useful links
+### Z-table 
 https://www.ztable.net/
 
-## Z-table calculator 
+### Z-table calculator 
 https://www.calculator.net/z-score-calculator.html
