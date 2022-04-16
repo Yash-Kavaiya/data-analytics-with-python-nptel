@@ -32,3 +32,11 @@
 |    Week 10 assigment solution                       |     https://youtu.be/3sSgR04FFfM     |
 |    Week 11 assigment solution                       |          Coming soon !     |
 |    Week 12 assigment solution                       |          Coming soon !     |
+
+
+# Useful links
+## Z-table 
+https://www.ztable.net/
+
+## Z-table calculator 
+https://www.calculator.net/z-score-calculator.html
