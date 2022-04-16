@@ -40,3 +40,9 @@ https://www.ztable.net/
 
 ### Z-table calculator 
 https://www.calculator.net/z-score-calculator.html
+
+### T-table 
+https://www.tdistributiontable.com/
+
+### T-table calculator 
+https://goodcalculators.com/student-t-value-calculator/
