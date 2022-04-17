@@ -34,6 +34,9 @@
 |    Week 12 assigment solution                       |          Coming soon !     |
 
 
+## https://youtu.be/cmRkGyrcsrI
+
+
 ## Useful links
 ### Z-table 
 https://www.ztable.net/
