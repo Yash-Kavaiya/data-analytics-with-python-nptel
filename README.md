@@ -1,18 +1,18 @@
 # Data-analytics-with-python-nptel
 ### Course layout
 
-| Weeks   |   | Topic                                                   |
-|---------|---|---------------------------------------------------------|
-| Week 1  | : | Introduction To Data Analytics And Python Fundamentals  |
-| Week 2  | : | Introduction To Probability                             |
-| Week 3  | : | Sampling And Sampling Distributions                     |
-| Week 4  | : | Hypothesis Testing                                      |
-| Week 5  | : | Two Sample Testing And Introduction To ANOVA            |
-| Week 6  | : | Two Way ANOVA And Linear Regression                     |
-| Week 7  | : | Linear Regression And Multiple Regression               |
-| Week 8  | : | Concepts Of MLE And Logistic Regression                 |
-| Week 9  | : | ROC And Regression Analysis Model Building              |
-| Week 10 | : | C2 Test And Introduction To Cluster Analysis            |
+| Weeks   |   Topic                                                   |
+|---------|-----------------------------------------------------------|
+| Week 1  |  Introduction To Data Analytics And Python Fundamentals  |
+| Week 2  |  Introduction To Probability                             |
+| Week 3  |  Sampling And Sampling Distributions                     |
+| Week 4  | Hypothesis Testing                                      |
+| Week 5  |  Two Sample Testing And Introduction To ANOVA            |
+| Week 6  |  Two Way ANOVA And Linear Regression                     |
+| Week 7  |  Linear Regression And Multiple Regression               |
+| Week 8  |  Concepts Of MLE And Logistic Regression                 |
+| Week 9  |  ROC And Regression Analysis Model Building              |
+| Week 10 |  C2 Test And Introduction To Cluster Analysis            |
 
 
 ## Assigment Solutions 
