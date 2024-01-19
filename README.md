@@ -36,6 +36,7 @@
 
 ## https://youtu.be/cmRkGyrcsrI
 
+## Study Group :- https://discord.gg/rNKDggem
 
 ## Useful links
 ### Z-table 
