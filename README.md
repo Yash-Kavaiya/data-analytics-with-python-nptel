@@ -1,4 +1,7 @@
 # Data-analytics-with-python-nptel
+
+Course Review :- https://youtu.be/QLyti7a3wMw?si=V9ZGUUprNrLslesZ
+
 ### Course layout
 
 | Weeks   |   Topic                                                   |
