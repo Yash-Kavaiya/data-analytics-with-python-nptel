@@ -1,6 +1,7 @@
 # Data-analytics-with-python-nptel
+![Data-analytics-with-python-nptel](https://github.com/Yash-Kavaiya/data-analytics-with-python-nptel/blob/main/mqdefault.jpg)
 
-Course Review :- https://youtu.be/QLyti7a3wMw?si=V9ZGUUprNrLslesZ
+Course Review:- https://youtu.be/QLyti7a3wMw?si=V9ZGUUprNrLslesZ
 
 ## Course layout
 
