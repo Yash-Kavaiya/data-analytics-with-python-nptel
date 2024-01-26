@@ -2,7 +2,7 @@
 
 Course Review :- https://youtu.be/QLyti7a3wMw?si=V9ZGUUprNrLslesZ
 
-### Course layout
+## Course layout
 
 | Weeks   |   Topic                                                   |
 |---------|-----------------------------------------------------------|
@@ -17,9 +17,7 @@ Course Review :- https://youtu.be/QLyti7a3wMw?si=V9ZGUUprNrLslesZ
 | Week 9  |  ROC And Regression Analysis Model Building              |
 | Week 10 |  C2 Test And Introduction To Cluster Analysis            |
 
-
-## Assignment Solutions 
-
+## Assignment Solutions old course
 
 | Weeks                     | Youtube link |
 |---------------------------|--------------|
@@ -36,24 +34,35 @@ Course Review :- https://youtu.be/QLyti7a3wMw?si=V9ZGUUprNrLslesZ
 |    Week 11 assigment solution                       |          Coming soon !     |
 |    Week 12 assigment solution                       |          Coming soon !     |
 
+#### Youtube Playlist
+https://youtu.be/cmRkGyrcsrI
 
-## https://youtu.be/cmRkGyrcsrI
+#### Study Group :- 
+https://discord.gg/rNKDggem
 
-## Study Group :- https://discord.gg/rNKDggem
+### Week-1 Introduction To Data Analytics And Python Fundamentals
+# Week-1
+
+| Details | Link |
+| -------- | -------- |
+| Assignment solution   | [Assignment solution with explanation](https://youtu.be/lEF4bSJwAZE?si=KsXJCFaYiDWEYnur)   |
+| Practice Questions   | [Week -1 Practice Questions Video](https://www.youtube.com/live/_ehcQLhzzzM?si=p9gSGKQHGIZ5Hjrf)   |
+| Summary of Week-1   | [Week -1 Summary Video](https://youtu.be/klreBPvFSxE?si=G6F-qQo4VFfyrxIe)    |
+|  Central Tendency and Dispersion | [Find Central Tendency and Dispersion in MS EXCEL in Just a Few Clicks](https://youtu.be/jjRwZzgFhXY)    |
+|  How to Run Python Notebook in Online   | [Top 5 Platform to Run Python In Online](https://youtube.com/live/NvSPiaflnO0)    |
 
 ## Useful links
-### Z-table 
+#### Z-table 
 https://www.ztable.net/
 
-### Z-table calculator 
+#### Z-table calculator 
 https://www.calculator.net/z-score-calculator.html
 
-### T-table 
+#### T-table 
 https://www.tdistributiontable.com/
 
-### T-table calculator 
+#### T-table calculator 
 https://goodcalculators.com/student-t-value-calculator/
 
-# Credit 
-NPTEL
-Video Playlist:- https://youtube.com/playlist?list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&si=bscrB6uSG308P1XJ
+### Credit 
+NPTEL Video Playlist:- https://youtube.com/playlist?list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&si=bscrB6uSG308P1XJ
