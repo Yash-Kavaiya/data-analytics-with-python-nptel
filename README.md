@@ -49,7 +49,7 @@ https://discord.gg/rNKDggem
 | Practice Questions   | [Week -1 Practice Questions Video](https://www.youtube.com/live/_ehcQLhzzzM?si=p9gSGKQHGIZ5Hjrf)   |
 | Summary of Week-1   | [Week -1 Summary Video](https://youtu.be/klreBPvFSxE?si=G6F-qQo4VFfyrxIe)    |
 |  Central Tendency and Dispersion | [Find Central Tendency and Dispersion in MS EXCEL in Just a Few Clicks](https://youtu.be/jjRwZzgFhXY)    |
-|  How to Run Python Notebook in Online   | [Assignment solution with explanation](https://youtu.be/jjRwZzgFhXY)    |
+|  How to Run Python Notebook in Online   | [Top 5 Platform to Run Python In Online](https://youtube.com/live/NvSPiaflnO0)    |
 
 ## Useful links
 #### Z-table 
