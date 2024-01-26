@@ -6,6 +6,8 @@
 | Practice Questions   | [Assignment solution with explanation](https://www.youtube.com/live/_ehcQLhzzzM?si=p9gSGKQHGIZ5Hjrf)   |
 | Summary of Week-1   | [Assignment solution with explanation](https://youtu.be/klreBPvFSxE?si=G6F-qQo4VFfyrxIe)    |
 
+|  Find Central Tendency and Dispersion in MS EXCEL in Just a Few Clicks  | [Assignment solution with explanation](https://youtu.be/jjRwZzgFhXY)    |
+
 
 
 
